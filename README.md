@@ -1,2 +1,2 @@
 # DB
-SSAFY DB Class
+About DB
