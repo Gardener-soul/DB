@@ -1,2 +1,2 @@
 # DB
-About DB
+DB, There are no C
